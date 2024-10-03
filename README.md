@@ -38,3 +38,7 @@ em várias regiões do mundo).
 
 ## Desafio de projeto - Configurando uma instância de Banco de Dados na Azure
 
+- IaaS, PaaS e SaaS
+- Modelo de reponsabilidade compartilhada
+
+

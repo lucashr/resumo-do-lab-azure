@@ -1,5 +1,7 @@
 # resumo-do-lab-azure
 
+## Microsoft Azure - Localizando Serviços por Categoria
+
 - Conhecimento básico sobre as diferenças entre nuvems: publica, privada e híbrida.
 - Diferença entre capEx e opEx
 - Vantagem de se utilziar uma nuvem pública

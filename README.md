@@ -1,6 +1,6 @@
 # resumo-do-lab-azure
 
-
+ 
 ## Desafio de projeto - Microsoft Azure - Localizando Serviços por Categoria
 
 - Conhecimento básico sobre as diferenças entre nuvems: publica, privada e híbrida.

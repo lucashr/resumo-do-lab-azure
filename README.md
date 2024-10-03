@@ -42,4 +42,12 @@ em várias regiões do mundo).
 - IaaS, PaaS e SaaS
 - Modelo de reponsabilidade compartilhada
 
+* IaaS: cria uma infraestrutura como serviço conforme o uso alugando servidores,
+máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem.
+* PaaS: cria uma plataforma como serviço para criação de aplicativos de software tirando a responsabilidade
+de gerenciamento da infraestrutura.
+* SaaS: disponibiliza um software como serviço Ex.: Microsoft Office 365. Retira a responsabilidade de gerenciamento de infraestrutura,
+datacenter físico, rede física, hosts físicos, sistema operacional, controle de rede e aplicativos.
+
+
 

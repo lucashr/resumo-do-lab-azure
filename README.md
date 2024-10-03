@@ -1,7 +1,8 @@
 # resumo-do-lab-azure
 
-### Desafio de projeto
+
 ## Microsoft Azure - Localizando Serviços por Categoria
+### Desafio de projeto
 
 - Conhecimento básico sobre as diferenças entre nuvems: publica, privada e híbrida.
 - Diferença entre capEx e opEx
@@ -17,7 +18,8 @@ opEx: gasto em produtos e serviços de uma nuvem conforme o uso
 Vantagem de se utilziar uma nuvem pública: custo inicial muito baixo em relação ao ambiente on premise, agilidade na disponibilização de um serviço,
 cobrança somente pelos recursos utilizados.
 
-### Desafio de projeto
+
 ## Criando máquinas Virtuais na Azure
+### Desafio de projeto
 
 

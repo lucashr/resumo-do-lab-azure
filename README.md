@@ -30,4 +30,6 @@ O cobrança será feita apenas pelos recursos utilizados.
 em várias regiões do mundo).
 * Previsibilidade: recursos confiaveis e a possibilidade que os clientes consigam utilizar os recursos da nuvem.
 * Segurança: os recursos de segurança são fornecidos pelo provider, no entanto, cabe ao cliente usar de maneira correta em suas aplicações.
-* 
+* Governança: basicamente é uma auditoria em nuvem que ajuda sinalizar qualquer recurso que esteja fora de conformidade com os padrões corporativos estabelecidos pela empresa e fornece estratégias de mitigação.
+* Gerenciabilidade: basicamente diz respeito a gerenciar seus recursos de nuvem (escalar automaticamente algum recurso, utilizar modelo pré-configurado, removendo a necessidade de configuração manual, gerenciar recursos por meio da Web ou CLI)
+

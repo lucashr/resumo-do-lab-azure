@@ -33,3 +33,5 @@ em várias regiões do mundo).
 * Governança: basicamente é uma auditoria em nuvem que ajuda sinalizar qualquer recurso que esteja fora de conformidade com os padrões corporativos estabelecidos pela empresa e fornece estratégias de mitigação.
 * Gerenciabilidade: basicamente diz respeito a gerenciar seus recursos de nuvem (escalar automaticamente algum recurso, utilizar modelo pré-configurado, removendo a necessidade de configuração manual, gerenciar recursos por meio da Web ou CLI)
 
+## Desafio de projeto - Configurando uma instância de Banco de Dados na Azure
+

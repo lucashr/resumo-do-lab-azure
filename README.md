@@ -1,8 +1,7 @@
 # resumo-do-lab-azure
 
 
-## Microsoft Azure - Localizando Serviços por Categoria
-### Desafio de projeto
+## Desafio de projeto - Microsoft Azure - Localizando Serviços por Categoria
 
 - Conhecimento básico sobre as diferenças entre nuvems: publica, privada e híbrida.
 - Diferença entre capEx e opEx
@@ -19,8 +18,7 @@ Vantagem de se utilziar uma nuvem pública: custo inicial muito baixo em relaç�
 cobrança somente pelos recursos utilizados.
 
 
-## Criando máquinas Virtuais na Azure
-### Desafio de projeto
+## Desafio de projeto - Criando máquinas Virtuais na Azure
 
 - Beneficios da nuvem como: alta disponibilidade, escalabilidade, elasticidade, confiabilidade, previsibilidade, segurança governança e gerenciabilidade.
 
